@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_tcg_b_ms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkhw/nodejs_tcg_b_ms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkhw/nodejs_tcg_b_ms/issues"
+  },
+  "homepage": "https://github.com/imkhw/nodejs_tcg_b_ms#readme"
+}
